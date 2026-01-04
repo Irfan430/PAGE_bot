@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "FB Page Bot",
+    "version": "3.0.0",
+    "author": "IRFAN"
+  },
+  "facebook": {
+    "pageAccessToken": "",
+    "verifyToken": "xx",
+    "pageId": "",
+    "appSecret": ""
+  },
+  "server": {
+    "webhookPath": "/webhook"
+  }
+}
